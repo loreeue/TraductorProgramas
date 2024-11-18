@@ -1,0 +1,11 @@
+#define NUM 5
+int main(void) {
+    float y;
+    y = 3.14;
+    if (NUM > 0) {
+        return x;
+    }
+    else {
+        return y;
+    }
+}

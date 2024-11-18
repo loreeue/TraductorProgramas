@@ -1,0 +1,10 @@
+#define A 2
+#define B 0
+int main(void) {
+    if (A == 0 && B == 0) {
+        return 0;
+    }
+    else {
+        return 1;
+    }
+}

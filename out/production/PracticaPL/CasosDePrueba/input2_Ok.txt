@@ -1,0 +1,16 @@
+int main(void) {
+    int x;
+    x = 5;
+    float y;
+    y = 3.14;
+    if (x > 0) {
+        return x;
+    } else {
+        return y;
+    }
+}
+// Este es un comentario de línea
+/*
+Esto es un comentario
+de bloque.
+*/
